@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="morseMaze"
+   width="100%"
+   height="100%"
+   viewBox="0 0 300 300"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg172"
+   sodipodi:docname="morseMaze8.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata178">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs176" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview174"
+     showgrid="false"
+     inkscape:zoom="2.2250293"
+     inkscape:cx="89.119664"
+     inkscape:cy="229.51358"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg172" />
+  <xhtml:defs>
+    <xhtml:style
+       type="text/css"><![CDATA[
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary { display: block; }
+audio, canvas, video { display: inline-block; }
+audio:not([controls]) { display: none; height: 0px; }
+[hidden] { display: none; }
+html { font-size: 100%; text-size-adjust: 100%; }
+html, button, input, select, textarea { font-family: sans-serif; }
+body { margin: 0px; }
+a:focus { outline: dotted thin; }
+a:active, a:hover { outline: 0px; }
+h1 { font-size: 2em; margin: 0.67em 0px; }
+h2 { font-size: 1.5em; margin: 0.83em 0px; }
+h3 { font-size: 1.17em; margin: 1em 0px; }
+h4 { font-size: 1em; margin: 1.33em 0px; }
+h5 { font-size: 0.83em; margin: 1.67em 0px; }
+h6 { font-size: 0.67em; margin: 2.33em 0px; }
+abbr[title] { border-bottom: 1px dotted; }
+b, strong { font-weight: bold; }
+blockquote { margin: 1em 2.5em; }
+dfn { font-style: italic; }
+hr { box-sizing: content-box; height: 0px; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+p, pre { margin: 1em 0px; }
+code, kbd, pre, samp { font-family: monospace, serif; font-size: 1em; }
+pre { white-space: pre-wrap; word-wrap: break-word; }
+q { quotes: none; }
+q::before, q::after { content: none; }
+small { font-size: 80%; }
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }
+sup { top: -0.5em; }
+sub { bottom: -0.25em; }
+dl, menu, ol, ul { margin: 1em 0px; }
+dd { margin: 0px 0px 0px 2.5em; }
+menu, ol, ul { padding: 0px 0px 0px 2.5em; }
+nav ul, nav ol { list-style: none none; }
+img { border: 0px; }
+svg:not(:root) { overflow: hidden; }
+figure { margin: 0px; }
+form { margin: 0px; }
+fieldset { border: 1px solid rgb(192, 192, 192); margin: 0px 0.125em; padding: 0.35em 0.625em 0.75em; }
+legend { border: 0px; padding: 0px; }
+button, input, select, textarea { font-size: 100%; margin: 0px; vertical-align: baseline; }
+button, input { line-height: normal; }
+button, select { text-transform: none; }
+button, html input[type="button"], input[type="reset"], input[type="submit"] { -webkit-appearance: button; cursor: pointer; }
+button[disabled], html input[disabled] { cursor: default; }
+input[type="checkbox"], input[type="radio"] { box-sizing: border-box; padding: 0px; }
+input[type="search"] { -webkit-appearance: textfield; box-sizing: content-box; }
+input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration { -webkit-appearance: none; }
+textarea { overflow: auto; vertical-align: top; }
+table { border-collapse: collapse; border-spacing: 0px; }
+html, button, input, select, textarea { color: rgb(34, 34, 34); }
+html { font-family: "Special Elite", "Courier New", monospace; font-size: 12pt; line-height: 1.4; }
+::selection { background: rgb(179, 212, 252); text-shadow: none; }
+hr { display: block; height: 1px; border-width: 1px 0px 0px; border-right-style: initial; border-bottom-style: initial; border-left-style: initial; border-right-color: initial; border-bottom-color: initial; border-left-color: initial; border-image: initial; border-top-style: solid; border-top-color: rgb(204, 204, 204); margin: 1em 0px; padding: 0px; }
+audio, canvas, img, video { vertical-align: middle; }
+fieldset { border: 0px; margin: 0px; padding: 0px; }
+textarea { resize: vertical; }
+html { margin: 0px; padding: 0px; }
+body { margin: 0px; padding: 0px; }
+p, pre { margin: 0.5em 0px 1em; }
+em { font-style: normal; text-decoration: underline; }
+h1 { font-size: 2em; margin: 0.67em 0px 0px; }
+h2 { font-size: 1.5em; margin: 0px; }
+h3 { font-size: 1.17em; margin: 1em 0px 0px; }
+h4 { font-size: 1em; margin: 1.33em 0px 0px; }
+h5 { font-size: 0.83em; margin: 1.67em 0px 0px; }
+h6 { font-size: 0.67em; margin: 2.33em 0px 0px; }
+h2, h3, h4 { text-decoration: underline; }
+li ul { margin: 0px; }
+table { border-collapse: collapse; }
+table, th, td { border: 1px solid rgb(34, 34, 34); }
+td, th { padding: 0.3em 0.6em 0.2em; }
+.new-block-formatting-context { overflow: hidden; }
+.no-border, .no-border tr, .no-border tr th, .no-border tr td { border: none; }
+.centered-img { display: block; margin-left: auto; margin-right: auto; }
+.diagram { width: 5em; float: right; margin-left: 0.5em; margin-bottom: 0.5em; }
+.diagram-label { text-align: center; }
+.page-bg-01 { background-image: url("../img/page-bg-noise-01.png"); }
+.page-bg-02 { background-image: url("../img/page-bg-noise-02.png"); }
+.page-bg-03 { background-image: url("../img/page-bg-noise-03.png"); }
+.page-bg-04 { background-image: url("../img/page-bg-noise-04.png"); }
+.page-bg-05 { background-image: url("../img/page-bg-noise-05.png"); }
+.page-bg-06 { background-image: url("../img/page-bg-noise-06.png"); }
+.page-bg-07 { background-image: url("../img/page-bg-noise-07.png"); }
+.page-content { margin: 0px 0.25in; padding-top: 2em; }
+.page-header { display: block; position: relative; height: 0px; top: 0.25in; margin: 0px 0.5in; }
+.page-header-section-title { float: right; }
+.page-header-doc-title { float: left; }
+.page-footer { text-align: center; }
+.relative-footer { display: none; }
+.absolute-footer { display: none; }
+.appendix-reference { font-style: italic; }
+.instructions { font-family: Cabin, sans-serif; line-height: normal; }
+.instructions h2, .instructions h3, .instructions h4 { text-decoration: none; }
+.instructions em { font-style: italic; text-decoration: none; }
+.bomb-diagram { text-align: center; margin: 0px auto; display: block; }
+.bomb-diagram-front { width: 18.0021em; }
+.bomb-diagram-side { width: 5.38956em; }
+.diagram-label { }
+.bomb-diagram img { height: 11.7em; vertical-align: middle; padding: 0.5em 1em; }
+.bomb-diagram table, .bomb-diagram tr, .bomb-diagram td { margin: 0px; padding: 0px; border: 0px; }
+.bomb-diagram table { margin: 0px auto; }
+.timer-diagram { text-align: center; display: block; float: right; width: 5em; padding: 0px; margin: 0px 0px 2em 2em; }
+.timer-diagram img { width: 100%; margin: 0px; padding: 0px; }
+.section-title .page-content { text-align: center; }
+.section-title .vertical-spacer { height: 20.5em; }
+.music-image { height: 45em; }
+.music-table td, .music-table th { padding: 0px; }
+.password-table { margin-left: auto; margin-right: auto; }
+.repeaters-table { width: 98%; border: none; margin-left: auto; margin-right: auto; }
+.repeaters-spacer { border: none; }
+.whos-on-first-step1-table, .whos-on-first-step1-table td { margin-left: auto; margin-right: auto; border: none; }
+.whos-on-first-step1-table th, .whos-on-first-step1-table td { font-size: 0.9em; width: 6.5em; padding: 0.45em 0.45em 0.7em 0.7em; }
+.whos-on-first-step1-table th table, .whos-on-first-step1-table td table { width: 95%; margin-left: auto; margin-right: auto; }
+.whos-on-first-look-at-display { background-color: black; color: white; }
+.whos-on-first-step1-table td table td { font-size: 1em; height: 1.5em; width: 50%; padding: 0px; text-align: center; border: 1px solid black; }
+.whos-on-first-step1-table td table th { font-size: 1em; height: 1.5em; padding: 0.1em; text-align: center; border: 1px solid black; }
+.whos-on-first-step1-table th { border: 1px solid black; }
+.whos-on-first-step2-table { width: 105%; }
+.whos-on-first-step2-table th { padding: 0.15em 0.2em; }
+.whos-on-first-step2-table td { font-size: 0.78em; }
+.keypad-table { margin-left: auto; margin-right: auto; font-family: Arial, sans-serif; font-size: 2.2em; border-style: none; text-align: center; }
+.keypad-table-column { background-color: rgb(255, 255, 255); padding: 0.1em; }
+.keypad-table-spacer { border-style: none; }
+.keypad-symbol-image { height: 1.9em; }
+.maze { width: 11em; height: 11em; margin: 0.1em; }
+#morseCodeChart { float: left; margin-right: 1em; height: 32em; width: 24.8271em; border: 1px solid rgb(2, 26, 64); background-color: rgb(255, 255, 255); }
+.morse-code table th { font-size: 1.2em; font-weight: bold; width: 5em; }
+.morse-code table td { text-align: center; }
+.venn-wires table th { font-size: 1.2em; font-weight: bold; }
+.venn-wires table td { text-align: center; }
+#venndiagram { display: block; width: 70%; position: relative; top: -2em; margin-bottom: 0px; margin-left: auto; margin-right: auto; }
+#vennlegend { width: 20em; float: left; position: relative; top: -0.7em; }
+#venntable { border-width: 0.2em; position: relative; top: -0.7em; }
+#venntable td { font-size: 0.75em; }
+.venn-wires .appendix-reference { margin-top: 0px; position: relative; }
+.appendix-ports table { margin-top: 1em; }
+.appendix-ports img { height: 5em; }
+.appendix-ports table td { text-align: center; }
+.appendix-ports table th { font-size: 1.2em; font-weight: bold; }
+.needy-knob table { margin-left: 1.3em; margin-right: 1.3em; }
+.needy-knob table td, .needy-knob table th { width: 1.5em; text-align: center; }
+.needy-diagram-label { text-align: left; }
+.wire-sequence table { display: inline-table; margin-top: 1em; margin-bottom: 1em; width: 15.1em; font-size: 0.9em; }
+.wire-sequence td, .wire-sequence th { padding-left: 0.4em; padding-right: 0.4em; }
+.wire-sequence table .header { background-color: rgb(34, 34, 34); color: rgb(255, 255, 255); }
+.wire-sequence .blue-table { margin-left: 0.3em; margin-right: 0.3em; }
+.wire-sequence .second-col { width: 5em; }
+.memory-rules p { margin-top: 0.3em; font-size: 0.95em; }
+.rhythm-heaven .sub-components { text-align: center; margin-left: auto; margin-right: auto; }
+.rhythm-heaven .sub-components img { width: 5em; max-height: 4em; }
+.rhythm-heaven .example { width: 29em; float: right; position: relative; top: -2.9em; }
+.rhythm-heaven .example td, .rhythm-heaven .example th { padding: 0.15em 0.7em; }
+.flavour-text { font-style: italic; font-size: 75%; margin-top: 0.5em; }
+.ir { background-color: transparent; border: 0px; overflow: hidden; }
+.ir::before { content: ""; display: block; width: 0px; height: 150%; }
+.hidden { visibility: hidden; display: none !important; }
+.hide-screen { display: none; visibility: hidden; }
+.visuallyhidden { border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; }
+.visuallyhidden.focusable:active, .visuallyhidden.focusable:focus { clip: auto; height: auto; margin: 0px; overflow: visible; position: static; width: auto; }
+.invisible { visibility: hidden; }
+.clearfix::before, .clearfix::after { content: " "; display: table; }
+.clearfix::after { clear: both; }
+.clearfix { }
+div.translating { background: rgb(163, 191, 245); border: 1px solid black; box-shadow: rgb(34, 34, 34) 0px 0px 0.6em; font-size: 14pt; padding: 0.5em 1em; width: 8.5in; margin: 1em auto; box-sizing: border-box; }
+ul { margin: 0px 0px 0px 24px; padding: 0px; }
+#morseMazeChart { margin-right: 1em; height: 29em; width: 22.8271em; border: 1px solid rgb(2, 26, 64); background-color: rgb(255, 255, 255); }
+.morseMaze { width: 13em; height: 13em; }]]></xhtml:style>
+  </xhtml:defs>
+  <circle
+     cx="25"
+     cy="25"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle2" />
+  <line
+     x1="0"
+     x2="50"
+     y1="0"
+     y2="0"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line4" />
+  <line
+     x1="0"
+     x2="0"
+     y1="0"
+     y2="50"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line6" />
+  <circle
+     cx="25"
+     cy="75"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle8" />
+  <line
+     x1="0"
+     x2="50"
+     y1="50"
+     y2="50"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line10" />
+  <line
+     x1="0"
+     x2="0"
+     y1="50"
+     y2="100"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line12" />
+  <circle
+     cx="25"
+     cy="125"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle14" />
+  <line
+     x1="0"
+     x2="0"
+     y1="100"
+     y2="150"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line16" />
+  <circle
+     cx="25"
+     cy="175"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle18" />
+  <line
+     x1="0"
+     x2="50"
+     y1="150"
+     y2="150"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line20" />
+  <line
+     x1="0"
+     x2="0"
+     y1="150"
+     y2="200"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line22" />
+  <circle
+     cx="25"
+     cy="225"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle24" />
+  <line
+     x1="0"
+     x2="0"
+     y1="200"
+     y2="250"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line26" />
+  <circle
+     cx="25"
+     cy="275"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle28" />
+  <line
+     x1="0"
+     x2="0"
+     y1="250"
+     y2="300"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line30" />
+  <line
+     x1="0"
+     x2="50"
+     y1="300"
+     y2="300"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line32" />
+  <circle
+     cx="75"
+     cy="25"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle34" />
+  <line
+     x1="50"
+     x2="100"
+     y1="0"
+     y2="0"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line36" />
+  <circle
+     cx="75"
+     cy="75"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle38" />
+  <circle
+     cx="75"
+     cy="125"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle40" />
+  <line
+     x1="50"
+     x2="100"
+     y1="100"
+     y2="100"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line42" />
+  <circle
+     cx="75"
+     cy="175"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle44" />
+  <circle
+     cx="75"
+     cy="225"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle46" />
+  <line
+     x1="50"
+     x2="100"
+     y1="200"
+     y2="200"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line48" />
+  <circle
+     cx="75"
+     cy="275"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle50" />
+  <line
+     x1="50"
+     x2="50"
+     y1="250"
+     y2="300"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line52" />
+  <line
+     x1="50"
+     x2="100"
+     y1="300"
+     y2="300"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line54" />
+  <circle
+     cx="125"
+     cy="25"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle56" />
+  <line
+     x1="100"
+     x2="150"
+     y1="0"
+     y2="0"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line58" />
+  <circle
+     cx="125"
+     cy="75"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle60" />
+  <line
+     x1="100"
+     x2="150"
+     y1="50"
+     y2="50"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line62" />
+  <line
+     x1="100"
+     x2="100"
+     y1="50"
+     y2="100"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line64" />
+  <circle
+     cx="125"
+     cy="125"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle66" />
+  <line
+     x1="100"
+     x2="100"
+     y1="100"
+     y2="150"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line68" />
+  <circle
+     cx="125"
+     cy="175"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle70" />
+  <line
+     x1="100"
+     x2="150"
+     y1="150"
+     y2="150"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line72" />
+  <circle
+     cx="125"
+     cy="225"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle74" />
+  <line
+     x1="100"
+     x2="100"
+     y1="200"
+     y2="250"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line76" />
+  <circle
+     cx="125"
+     cy="275"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle78" />
+  <line
+     x1="100"
+     x2="150"
+     y1="250"
+     y2="250"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line80" />
+  <line
+     x1="100"
+     x2="150"
+     y1="300"
+     y2="300"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line82" />
+  <circle
+     cx="175"
+     cy="25"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle84" />
+  <line
+     x1="150"
+     x2="200"
+     y1="0"
+     y2="0"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line86" />
+  <circle
+     cx="175"
+     cy="75"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle88" />
+  <line
+     x1="150"
+     x2="200"
+     y1="50"
+     y2="50"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line90" />
+  <circle
+     cx="175"
+     cy="125"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle92" />
+  <line
+     x1="150"
+     x2="200"
+     y1="100"
+     y2="100"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line94" />
+  <circle
+     cx="175"
+     cy="175"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle96" />
+  <line
+     x1="150"
+     x2="150"
+     y1="150"
+     y2="200"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line98" />
+  <circle
+     cx="175"
+     cy="225"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle100" />
+  <line
+     x1="150"
+     x2="150"
+     y1="200"
+     y2="250"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line102" />
+  <circle
+     cx="175"
+     cy="275"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle104" />
+  <line
+     x1="150"
+     x2="200"
+     y1="300"
+     y2="300"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line106" />
+  <circle
+     cx="225"
+     cy="25"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle108" />
+  <line
+     x1="200"
+     x2="250"
+     y1="0"
+     y2="0"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line110" />
+  <circle
+     cx="225"
+     cy="75"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle112" />
+  <line
+     x1="200"
+     x2="250"
+     y1="50"
+     y2="50"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line114" />
+  <circle
+     cx="225"
+     cy="125"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle116" />
+  <line
+     x1="200"
+     x2="200"
+     y1="100"
+     y2="150"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line118" />
+  <circle
+     cx="225"
+     cy="175"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle120" />
+  <line
+     x1="200"
+     x2="200"
+     y1="150"
+     y2="200"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line122" />
+  <circle
+     cx="225"
+     cy="225"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle124" />
+  <line
+     x1="200"
+     x2="200"
+     y1="200"
+     y2="250"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line126" />
+  <circle
+     cx="225"
+     cy="275"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle128" />
+  <line
+     x1="200"
+     x2="200"
+     y1="250"
+     y2="300"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line130" />
+  <line
+     x1="200"
+     x2="250"
+     y1="300"
+     y2="300"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line132" />
+  <circle
+     cx="275"
+     cy="25"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle134" />
+  <line
+     x1="250"
+     x2="300"
+     y1="0"
+     y2="0"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line136" />
+  <line
+     x1="300"
+     x2="300"
+     y1="0"
+     y2="50"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line138" />
+  <circle
+     cx="275"
+     cy="75"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle140" />
+  <line
+     x1="250"
+     x2="250"
+     y1="50"
+     y2="100"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line142" />
+  <line
+     x1="300"
+     x2="300"
+     y1="50"
+     y2="100"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line144" />
+  <circle
+     cx="275"
+     cy="125"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle146" />
+  <line
+     x1="250"
+     x2="250"
+     y1="100"
+     y2="150"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line148" />
+  <line
+     x1="300"
+     x2="300"
+     y1="100"
+     y2="150"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line150" />
+  <circle
+     cx="275"
+     cy="175"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle152" />
+  <line
+     x1="250"
+     x2="250"
+     y1="150"
+     y2="200"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line154" />
+  <line
+     x1="300"
+     x2="300"
+     y1="150"
+     y2="200"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line156" />
+  <circle
+     cx="275"
+     cy="225"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle158" />
+  <line
+     x1="250"
+     x2="250"
+     y1="200"
+     y2="250"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line160" />
+  <line
+     x1="300"
+     x2="300"
+     y1="200"
+     y2="250"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line162" />
+  <circle
+     cx="275"
+     cy="275"
+     r="3"
+     stroke="black"
+     fill="grey"
+     stroke-width="1"
+     id="circle164" />
+  <line
+     x1="250"
+     x2="250"
+     y1="250"
+     y2="300"
+     stroke="black"
+     stroke-width="3"
+     stroke-dasharray=""
+     fill="none"
+     id="line166" />
+  <line
+     x1="300"
+     x2="300"
+     y1="250"
+     y2="300"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line168" />
+  <line
+     x1="250"
+     x2="300"
+     y1="300"
+     y2="300"
+     stroke="black"
+     stroke-width="10"
+     stroke-dasharray=""
+     fill="none"
+     id="line170" />
+  <circle
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.90255523;stroke-opacity:1"
+     id="path8665-3"
+     cx="174.82916"
+     cy="24.498014"
+     r="17.20974" />
+  <circle
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.90255523;stroke-opacity:1"
+     id="path8665-3-6"
+     cx="75.055191"
+     cy="74.834427"
+     r="17.20974" />
+</svg>
